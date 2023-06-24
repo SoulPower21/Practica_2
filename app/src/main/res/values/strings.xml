@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Practica2</string>
+    <string name="valDni">Ingrese su dni</string>
+    <string name="valClave">Ingrese su clave</string>
+    <string name="valIngreso">Ingresar</string>
+    <string name="valRegistro">Crear Cuenta</string>
+    <string name="valNombre">Ingrese su nombre completo</string>
+    <string name="valClavex2">Ingrese nuevamente su clave</string>
+    <string name="valRegistrarse">Registrar Cuenta</string>
 </resources>

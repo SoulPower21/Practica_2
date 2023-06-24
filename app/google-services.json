@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585707007150",
+    "project_id": "pc2movil",
+    "storage_bucket": "pc2movil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585707007150:android:df6b228dc9c806487c113f",
+        "android_client_info": {
+          "package_name": "com.example.practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585707007150-0v5730lsjg3kqap4nl1uge1or4qpbbpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9ZoyVccu_0JEILXBsS3lFGqOWbLcu-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585707007150-0v5730lsjg3kqap4nl1uge1or4qpbbpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
